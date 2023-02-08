@@ -1,0 +1,33 @@
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\bin\Debug\mashUp.exe.config
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\bin\Debug\mashUp.exe
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\bin\Debug\mashUp.pdb
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.Form1.resources
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.Properties.Resources.resources
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.GenerateResource.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.exe
+C:\Users\Personal\Documents\UDLAP\QuintoSemestre\GraficacionYVideojuegos\PrimerParcial\MashUp\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.pdb
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\bin\Debug\mashUp.exe.config
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\bin\Debug\mashUp.exe
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\bin\Debug\mashUp.pdb
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.Form1.resources
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.Properties.Resources.resources
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.exe
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\mashUp-graficacion_y_videojuegos_lab\obj\Debug\mashUp.pdb
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\bin\Debug\mashUp.exe.config
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\bin\Debug\mashUp.exe
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\bin\Debug\mashUp.pdb
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.Form1.resources
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.Properties.Resources.resources
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.exe
+D:\UNIVERSIDAD\SEMESTRE 5\Graficacion y Videojuegos\CLASE\MashUp\obj\Debug\mashUp.pdb
